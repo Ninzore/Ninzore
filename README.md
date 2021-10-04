@@ -22,7 +22,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 ![](https://img.shields.io/badge/Python-ffdd6e?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/C-3E3E3E?style=flat-square&logo=C)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![](https://img.shields.io/badge/Kotlin-7e53fe?style=flat-square&logo=kotlin)
+![](https://img.shields.io/badge/Kotlin-db4a78?style=flat-square&logo=kotlin)
 ![](https://img.shields.io/badge/VHSIC%20very%20high%20speed%20Hardware%20Description%20Language-adb2cb?style=flat-square)
   
 IDE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
